@@ -10,7 +10,13 @@
 
 [Rock Your LinkedIn Profile](https://www.linkedin.com/learning/rock-your-linkedin-profile/connect-to-opportunity-with-linkedin)
 
-## E-Books
+## Our Guests
+
+- [Mahmoud Kassem]( https://www.linkedin.com/in/mahmoudkassem30/)
+- [Marwa Abdelazeem](https://www.linkedin.com/in/marwaabdelazeem/)
+-  [Ahmed (L Facilitator) Awara](https://www.linkedin.com/in/ahmedawarapersonalbranding/)
+
+##  E-Books
 
 - [LinkedIn Guide E-book](https://www.linkedin.com/in/marwaabdelazeem/overlay/1635522954372/single-media-viewer/?profileId=ACoAADG3pA0BAqlKUu0MOLzDnEyZ6YHyrTeZ0b0)
 - [LinkedIn for Job Seekers and Fresh Graduates](https://www.linkedin.com/feed/update/urn:li:activity:6891789640207343616/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6891789640207343616%29)
