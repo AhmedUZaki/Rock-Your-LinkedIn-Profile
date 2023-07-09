@@ -3,7 +3,7 @@
 ## Record
 
 <p align="center"> <a href="https://www.facebook.com/GDSC.DELTA.UNIV/videos/3954697104815719/?mibextid=Nif5oz" target="_blank">
- <img src="https://i.imgur.com/VRpHth0.jpeg" alt="Watch the video" border="10" />
+ <img src="https://i.imgur.com/oVePvz9.jpeg" alt="Watch the video" border="10" />
 </a>
 
 ## Slides
