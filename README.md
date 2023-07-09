@@ -3,7 +3,7 @@
 ## Slides
 
 - [Official Slides](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjxvaXj8P__AhWzXaQEHfEDDO0QFnoECBEQAQ&url=https%3A%2F%2Fbusiness.linkedin.com%2Fcontent%2Fdam%2Fme%2Fbusiness%2Fen-us%2Fmarketing-solutions%2Fagency%2Fdecks%2FRock-Your-Profile---site-version.pdf&usg=AOvVaw1eMXLHm2aVQr_strwe9tiI&opi=89978449)
-- My Edition 
+- My Version.
 
 
 ## LinkedIn Course
