@@ -1,6 +1,10 @@
 # Rock Your LinkedIn Profile
 
-<p align="center"><img src='https://i.imgur.com/VRpHth0.jpeg' width="800"/>
+## Record
+
+<p align="center"> <a href="https://www.facebook.com/GDSC.DELTA.UNIV/videos/3954697104815719/?mibextid=Nif5oz" target="_blank">
+ <img src="https://i.imgur.com/VRpHth0.jpeg" alt="Watch the video" border="10" />
+</a>
 
 ## Slides
 
